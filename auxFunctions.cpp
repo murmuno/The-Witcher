@@ -1,4 +1,0 @@
-void ClearScreen()
-{
-	system("clear");
-}
